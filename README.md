@@ -17,7 +17,7 @@ Dash离线文档docsets文件整理,来源于weixiang的[Dash-dcsets-CN](https:/
 
 + 修改info.plist清单中的名称(CN),修正Linux包中清单的格式错误导致的导入失败问题;
 
-文档列表
+Feed订阅列表
 ===
 
 + [Git中文文档](https://github.com/quericy/Zeal-docset-CN/raw/master/Git-CN.xml)
@@ -39,9 +39,9 @@ Dash离线文档docsets文件整理,来源于weixiang的[Dash-dcsets-CN](https:/
 - Zeal(在线导入Feed,无需下载):
     + 打开Zeal,Tool->Docsets,点击Add feed
     
-    + 复制上节[文档列表](#文档列表)里需要导入的链接
+    + 复制上节[Feed订阅列表](#Feed订阅列表)里需要导入的链接
     
-    + 等待导入完成(可能需要扶墙)
+    + 等待导入完成(可能需要扶墙,Zeal选项中可设置代理)
     
     + Zeal无导入进度显示,部分较大的docsets,下载完成后可能会导入比较久,需要等待Installed列表中出现为止.(可观察磁盘读写使用率来判断是不是还在导入)
 
